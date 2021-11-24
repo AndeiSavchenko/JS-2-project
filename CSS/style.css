@@ -19,7 +19,7 @@
     -khtml-border-radius: 50%;
     background-color: white;
     margin-left: 20px;
-    box-shadow: 0px 0px 4px 3px rgb(0 0 0 / 15%);
+    box-shadow: 0px 0px 4px 3px rgb(0 0 0 / 16%);
 }
 
 .block-white {
@@ -28,7 +28,7 @@
     background-color: white;
     margin-left: 20px;
     border-radius: 4px 4px 4px 4px;
-    box-shadow: 0px 0px 4px 3px rgb(0 0 0 / 15%);
+    box-shadow: 0px 0px 4px 3px rgb(0 0 0 / 16%);
 }
 
 .header-botton {
