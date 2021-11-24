@@ -13,7 +13,6 @@ const renderGoodsItem = ({title = '', price = 0, img}) => `
   <button class="add-button" type="button">Добавить</button>
   </div>
 `
-
 const renderGoodsList = (list) => {
   let goodsList = list.map(item => renderGoodsItem(item));
   document.querySelector('.goods-list').innerHTML = goodsList.join('');
